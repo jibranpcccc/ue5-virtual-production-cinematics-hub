@@ -1,0 +1,505 @@
+[
+  {
+    "id": "unreal-engine-5-virtual-production-cinematics-hub-reddit-1",
+    "title": "r/aivideo AI Filmmaking & Cinematography",
+    "platform": "Reddit",
+    "category": "AI Video",
+    "memberCount": "190,000+ members",
+    "description": "The premier community for generative video creation, Runway Gen-3 workflows, Luma Dream Machine, and Kling AI.",
+    "joinUrl": "https://www.reddit.com/r/aivideo/",
+    "tags": [
+      "aivideo",
+      "cinematography",
+      "generative-video",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "unreal-engine-5-virtual-production-cinematics-hub-reddit-2",
+    "title": "r/Midjourney Generative Visual Aesthetics",
+    "platform": "Reddit",
+    "category": "Midjourney",
+    "memberCount": "1,300,000+ members",
+    "description": "Photorealistic prompt engineering, lighting styles, camera lens simulations, and keyframe aesthetic design.",
+    "joinUrl": "https://www.reddit.com/r/Midjourney/",
+    "tags": [
+      "midjourney",
+      "prompt-engineering",
+      "aesthetics",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "unreal-engine-5-virtual-production-cinematics-hub-reddit-3",
+    "title": "r/StableDiffusion Motion & Diffusion Workflows",
+    "platform": "Reddit",
+    "category": "Diffusion",
+    "memberCount": "580,000+ members",
+    "description": "AnimateDiff, SVD (Stable Video Diffusion), ControlNet temporal consistency, and LoRA training.",
+    "joinUrl": "https://www.reddit.com/r/StableDiffusion/",
+    "tags": [
+      "stablediffusion",
+      "animatediff",
+      "svd",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "unreal-engine-5-virtual-production-cinematics-hub-reddit-4",
+    "title": "r/runwayml Gen-3 & AI Motion Tools",
+    "platform": "Reddit",
+    "category": "Runway",
+    "memberCount": "35,000+ members",
+    "description": "Runway Gen-2 & Gen-3 Alpha techniques, camera control parameters, motion brush workflows, and AI cinematography.",
+    "joinUrl": "https://www.reddit.com/r/runwayml/",
+    "tags": [
+      "runway",
+      "gen3",
+      "motion-brush",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "unreal-engine-5-virtual-production-cinematics-hub-reddit-5",
+    "title": "r/ComfyUI Node-Based Generative Video",
+    "platform": "Reddit",
+    "category": "ComfyUI",
+    "memberCount": "85,000+ members",
+    "description": "Advanced modular node graphs for video generation, frame interpolation, upscale workflows, and video-to-video.",
+    "joinUrl": "https://www.reddit.com/r/ComfyUI/",
+    "tags": [
+      "comfyui",
+      "workflows",
+      "nodes",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "unreal-engine-5-virtual-production-cinematics-hub-reddit-6",
+    "title": "r/PromptEngineering Video Prompts Guild",
+    "platform": "Reddit",
+    "category": "Prompting",
+    "memberCount": "140,000+ members",
+    "description": "Crafting high-precision prompts for camera motions, temporal coherence, shot sequencing, and dynamic actions.",
+    "joinUrl": "https://www.reddit.com/r/PromptEngineering/",
+    "tags": [
+      "prompting",
+      "cinematography",
+      "video-prompts",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "unreal-engine-5-virtual-production-cinematics-hub-discord-7",
+    "title": "Midjourney Official Creator Discord",
+    "platform": "Discord",
+    "category": "Midjourney",
+    "memberCount": "2,000,000+ members",
+    "description": "The largest generative art community in the world, featuring real-time image prompting and style exploration.",
+    "joinUrl": "https://discord.gg/midjourney",
+    "tags": [
+      "midjourney",
+      "art",
+      "creator",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "unreal-engine-5-virtual-production-cinematics-hub-discord-8",
+    "title": "OpenAI Sora & Generative AI Discord",
+    "platform": "Discord",
+    "category": "OpenAI",
+    "memberCount": "200,000+ members",
+    "description": "Official community server for OpenAI developers, multimodal models, video prompting, and generation APIs.",
+    "joinUrl": "https://discord.gg/openai",
+    "tags": [
+      "openai",
+      "sora",
+      "multimodal",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "unreal-engine-5-virtual-production-cinematics-hub-discord-9",
+    "title": "Anthropic Claude Prompt Engineering Discord",
+    "platform": "Discord",
+    "category": "Anthropic",
+    "memberCount": "85,000+ members",
+    "description": "Official server for Claude developers creating detailed video scripts, character descriptions, and screenplays.",
+    "joinUrl": "https://discord.gg/anthropic",
+    "tags": [
+      "claude",
+      "screenplays",
+      "storyboarding",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "unreal-engine-5-virtual-production-cinematics-hub-forum-10",
+    "title": "Hugging Face Video & Vision Forum",
+    "platform": "Forum",
+    "category": "Hugging Face",
+    "memberCount": "80,000+ members",
+    "description": "Hub for open-source AI video models, diffusers pipeline, text-to-video benchmarks, and model checkpoints.",
+    "joinUrl": "https://discuss.huggingface.co",
+    "tags": [
+      "huggingface",
+      "diffusers",
+      "video-models",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "unreal-engine-5-virtual-production-cinematics-hub-forum-11",
+    "title": "OpenAI Research & Developers Forum",
+    "platform": "Forum",
+    "category": "Forum",
+    "memberCount": "250,000+ members",
+    "description": "Discussions on generative model architectures, synthetic datasets, and high-fidelity video generation.",
+    "joinUrl": "https://community.openai.com",
+    "tags": [
+      "openai",
+      "research",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "unreal-engine-5-virtual-production-cinematics-hub-forum-12",
+    "title": "Kaggle Vision & Diffusion Research Forum",
+    "platform": "Forum",
+    "category": "Kaggle",
+    "memberCount": "1,500,000+ members",
+    "description": "Computer vision researchers benchmarking video temporal consistency, image-to-video metrics, and diffusion.",
+    "joinUrl": "https://www.kaggle.com/discussion",
+    "tags": [
+      "kaggle",
+      "computervision",
+      "diffusion",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "unreal-engine-5-virtual-production-cinematics-hub-reddit-13",
+    "title": "r/MachineLearning Video Generative Models",
+    "platform": "Reddit",
+    "category": "Machine Learning",
+    "memberCount": "2,900,000+ members",
+    "description": "Premier forum for diffusion model research papers, spatio-temporal attention architectures, and benchmark debates.",
+    "joinUrl": "https://www.reddit.com/r/MachineLearning/",
+    "tags": [
+      "machine-learning",
+      "diffusion-papers",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "unreal-engine-5-virtual-production-cinematics-hub-reddit-14",
+    "title": "r/LocalLLaMA Multimodal & Vision LLMs",
+    "platform": "Reddit",
+    "category": "Local LLM",
+    "memberCount": "260,000+ members",
+    "description": "Running local multimodal models to analyze video frames, auto-generate captions, and execute video QA.",
+    "joinUrl": "https://www.reddit.com/r/LocalLLaMA/",
+    "tags": [
+      "localllama",
+      "multimodal",
+      "vision",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "unreal-engine-5-virtual-production-cinematics-hub-reddit-15",
+    "title": "r/ChatGPT Creative Direction & Scripts",
+    "platform": "Reddit",
+    "category": "ChatGPT",
+    "memberCount": "6,500,000+ members",
+    "description": "Prompting ChatGPT to act as a creative director, generate shot lists, camera directions, and dialogue.",
+    "joinUrl": "https://www.reddit.com/r/ChatGPT/",
+    "tags": [
+      "chatgpt",
+      "director",
+      "scripts",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "unreal-engine-5-virtual-production-cinematics-hub-reddit-16",
+    "title": "r/ClaudeAI Storyboards & Scenario Prompts",
+    "platform": "Reddit",
+    "category": "Claude",
+    "memberCount": "140,000+ members",
+    "description": "Using Claude 3.5 Sonnet to design complete cinematic narrative arcs, scene breakdowns, and storyboard scripts.",
+    "joinUrl": "https://www.reddit.com/r/ClaudeAI/",
+    "tags": [
+      "claude",
+      "storyboards",
+      "cinematic",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "unreal-engine-5-virtual-production-cinematics-hub-telegram-17",
+    "title": "AI Insights & Video Model Feed",
+    "platform": "Telegram",
+    "category": "AI News",
+    "memberCount": "55,000+ members",
+    "description": "Real-time updates on text-to-video AI model releases, Hugging Face demo spaces, and parameter releases.",
+    "joinUrl": "https://t.me/ai_insights",
+    "tags": [
+      "telegram",
+      "ai-video",
+      "releases",
+      "news"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "unreal-engine-5-virtual-production-cinematics-hub-telegram-18",
+    "title": "Machine Learning Video Digest Channel",
+    "platform": "Telegram",
+    "category": "ML Digest",
+    "memberCount": "40,000+ members",
+    "description": "Curated daily video generation papers, ComfyUI custom nodes, and generative art pipelines.",
+    "joinUrl": "https://t.me/machinelearning_digest",
+    "tags": [
+      "telegram",
+      "digest",
+      "comfyui",
+      "nodes"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "unreal-engine-5-virtual-production-cinematics-hub-reddit-19",
+    "title": "r/vfx Visual Effects & Compositing Pipeline",
+    "platform": "Reddit",
+    "category": "VFX",
+    "memberCount": "180,000+ members",
+    "description": "Integrating AI video outputs with traditional Nuke compositing, camera tracking, and color grading.",
+    "joinUrl": "https://www.reddit.com/r/vfx/",
+    "tags": [
+      "vfx",
+      "compositing",
+      "color-grading",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "unreal-engine-5-virtual-production-cinematics-hub-reddit-20",
+    "title": "r/blender 3D AI Synthesis & Render Pipeline",
+    "platform": "Reddit",
+    "category": "Blender",
+    "memberCount": "1,200,000+ members",
+    "description": "Generating 3D camera projection plates and combining Blender Cycles rendering with diffusion upscalers.",
+    "joinUrl": "https://www.reddit.com/r/blender/",
+    "tags": [
+      "blender",
+      "cycles",
+      "projection",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "unreal-engine-5-virtual-production-cinematics-hub-discord-21",
+    "title": "Blender Official Creator Discord",
+    "platform": "Discord",
+    "category": "Blender Discord",
+    "memberCount": "180,000+ members",
+    "description": "Dedicated 3D community channels for environment artists, lighting leads, and video render optimization.",
+    "joinUrl": "https://discord.gg/blender",
+    "tags": [
+      "blender",
+      "3d",
+      "rendering",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "unreal-engine-5-virtual-production-cinematics-hub-forum-22",
+    "title": "Blender Artists Community Forum",
+    "platform": "Forum",
+    "category": "Blender Forum",
+    "memberCount": "210,000+ members",
+    "description": "The premier community forum for 3D digital art, animation showcases, render techniques, and critiques.",
+    "joinUrl": "https://blenderartists.org",
+    "tags": [
+      "blenderartists",
+      "animation",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "unreal-engine-5-virtual-production-cinematics-hub-reddit-23",
+    "title": "r/gamedev Procedural & Generative Art",
+    "platform": "Reddit",
+    "category": "Game Dev",
+    "memberCount": "1,450,000+ members",
+    "description": "Real-time cinematic shaders, procedural generation, virtual production in Unreal Engine, and assets.",
+    "joinUrl": "https://www.reddit.com/r/gamedev/",
+    "tags": [
+      "gamedev",
+      "virtual-production",
+      "shaders",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "unreal-engine-5-virtual-production-cinematics-hub-discord-24",
+    "title": "Game Dev League Creator Discord",
+    "platform": "Discord",
+    "category": "Game Dev Discord",
+    "memberCount": "115,000+ members",
+    "description": "Server for technical artists, animators, cinematic directors, and virtual production supervisors.",
+    "joinUrl": "https://discord.gg/gamedev",
+    "tags": [
+      "gamedev",
+      "cinematics",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "unreal-engine-5-virtual-production-cinematics-hub-telegram-25",
+    "title": "Indie Game & Art Telegram Channel",
+    "platform": "Telegram",
+    "category": "Art News",
+    "memberCount": "32,000+ members",
+    "description": "Curated asset drops, generative tool releases, and indie creator showcases.",
+    "joinUrl": "https://t.me/gamedev_channel",
+    "tags": [
+      "telegram",
+      "assets",
+      "creators"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "unreal-engine-5-virtual-production-cinematics-hub-discord-26",
+    "title": "Python Automation for Diffusion Discord",
+    "platform": "Discord",
+    "category": "Python",
+    "memberCount": "430,000+ members",
+    "description": "Scripting automated batch video generation pipelines, PyTorch tensor processing, and FFmpeg stitching.",
+    "joinUrl": "https://discord.gg/python",
+    "tags": [
+      "python",
+      "ffmpeg",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "unreal-engine-5-virtual-production-cinematics-hub-telegram-27",
+    "title": "Python Video Processing Scripts Telegram",
+    "platform": "Telegram",
+    "category": "Scripts",
+    "memberCount": "85,000+ members",
+    "description": "Daily Python scripts for FFmpeg video upscaling, frame rate doubling (RIFE), and audio synchronization.",
+    "joinUrl": "https://t.me/python_scripts",
+    "tags": [
+      "telegram",
+      "ffmpeg",
+      "upscaling",
+      "scripts"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "unreal-engine-5-virtual-production-cinematics-hub-discord-28",
+    "title": "The Programmer's Hangout Discord",
+    "platform": "Discord",
+    "category": "Programming",
+    "memberCount": "220,000+ members",
+    "description": "Multi-language programming server covering GPU compute, CUDA optimizations, and asynchronous jobs.",
+    "joinUrl": "https://discord.gg/programming",
+    "tags": [
+      "programming",
+      "cuda",
+      "gpu",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "unreal-engine-5-virtual-production-cinematics-hub-discord-29",
+    "title": "Tech Community Discord",
+    "platform": "Discord",
+    "category": "Tech",
+    "memberCount": "55,000+ members",
+    "description": "General technology server discussing next-gen camera sensors, compute hardware, and consumer AI.",
+    "joinUrl": "https://discord.gg/tech",
+    "tags": [
+      "tech",
+      "hardware",
+      "ai",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "unreal-engine-5-virtual-production-cinematics-hub-telegram-30",
+    "title": "TechCrunch Frontier AI Coverage",
+    "platform": "Telegram",
+    "category": "AI News",
+    "memberCount": "65,000+ members",
+    "description": "Daily reports on generative AI startups, cinematic studio acquisitions, and venture capital rounds.",
+    "joinUrl": "https://t.me/techcrunch",
+    "tags": [
+      "telegram",
+      "ai-startups",
+      "news"
+    ],
+    "verified": true,
+    "featured": false
+  }
+]
